@@ -46,12 +46,12 @@ Proj_Git_Databricks_PBI/
 ### Página 1 — Performance Comercial e Logística
 Visão geral de faturamento, volume de pedidos, `% Entregas no Prazo`, evolução temporal, ranking por `macro_categoria` (com *drill-down* para `subcategoria`) e matriz dinâmica de desempenho por estado com escala de calor.
 
-![Dashboard - Página 1: Performance Comercial e Logística](caminho/para/print_pagina_1.png)
+![Dashboard - Página 1: Performance Comercial e Logística](https://github.com/guilhermelpx/Proj_Git_Databricks_PBI/blob/main/Estudo%20Git-Databricks-IA-PBI%20P1.png)
 
 ### Página 2 — Diagnóstico de Reputação com IA Generativa
 Análise da amostra enriquecida pelo Gemini, cruzando distribuição de sentimentos, classificação automática das causas de reclamação (`Atraso na Entrega`, `Produto Danificado`, `Divergência de Anúncio`, `Atendimento`) e tabela analítica detalhada com o resumo gerado pela IA lado a lado com o comentário original e o status real do SLA.
 
-![Dashboard - Página 2: Diagnóstico de Reputação com IA](caminho/para/print_pagina_2.png)
+![Dashboard - Página 2: Diagnóstico de Reputação com IA](https://github.com/guilhermelpx/Proj_Git_Databricks_PBI/blob/main/Estudo%20Git-Databricks-IA-PBI%20P2.png)
 
 ---
 
